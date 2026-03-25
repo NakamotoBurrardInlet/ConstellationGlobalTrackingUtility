@@ -40,7 +40,7 @@ pip install numpy pandas requests skyfield dash plotly
 
 💻 How to Run the File
 
-    Save the main program script as aether_link.py.
+    Save the main program script as mainapp.py.
 
     Open your Terminal or Command Prompt.
 
