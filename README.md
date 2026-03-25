@@ -50,7 +50,7 @@ pip install numpy pandas requests skyfield dash plotly
 
 Bash
 
-python aether_link.py
+python mainapp.py
 
     Open your web browser and navigate to http://127.0.0.1:8050 to view the live orbital display.
 
@@ -99,7 +99,7 @@ pip install numpy pandas requests skyfield dash plotly
 
 Bash
 
-python aether_link.py
+python mainapp.py
 
     Ouvrez votre navigateur web et allez sur http://127.0.0.1:8050 pour voir l'affichage orbital en direct.
 
@@ -148,7 +148,7 @@ pip install numpy pandas requests skyfield dash plotly
 
 Bash
 
-python aether_link.py
+python mainapp.py
 
     Abra su navegador web y vaya a http://127.0.0.1:8050 para ver la pantalla orbital en vivo.
 
@@ -197,7 +197,7 @@ pip install numpy pandas requests skyfield dash plotly
 
 Bash
 
-python aether_link.py
+python mainapp.py
 
     פתח את דפדפן האינטרנט שלך ונווט לכתובת http://127.0.0.1:8050 כדי לצפות בתצוגת המסלול בזמן אמת.
 
@@ -246,6 +246,6 @@ pip install numpy pandas requests skyfield dash plotly
 
 Bash
 
-python aether_link.py
+python mainapp.py
 
     打开您的网页浏览器并访问 http://127.0.0.1:8050 即可查看实时的轨道显示。
